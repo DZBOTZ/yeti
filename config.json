@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["085872380901@s.whatsapp.net","085738975006@s.whatsapp.net"],
+    "ownerName": "DZ STORE",
+    "instagram" : "https://instagram.com/dhilzz.storee",
+    "botName": "AFABOTZ",
+    "footer": "AFA",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
